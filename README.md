@@ -1,4 +1,4 @@
-# Build MoneyMind: Your AI ChatBot Sidekick for Super Smart Spending! 💰 Tools: LLM Tools, OpenAPI, and Gradio
+# Build MoneyMind: Your AI ChatBot Sidekick for Super Smart Spending! 💰 Tools: LLM Tools, OpenAI API, and Gradio
 
 ## Why MoneyMind? (The "Problem" & The "Magic")
 
