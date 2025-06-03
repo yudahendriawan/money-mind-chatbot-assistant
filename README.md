@@ -24,13 +24,19 @@ Step-by-step Setup (Fun & Simple):
 1. **Python Power!**
     First off, you'll need Python installed. Most computers already have it, but if not, it's a quick download from [Python.org](python.org). We're using Python 3 for this project.
 
-2. **Virtual Environment** - Your Project's Cozy Corner
+2. **Clone the Project and Create Virtual Environment** - Your Project's Cozy Corner
     It's like giving your project its own clean room, so its ingredients don't mix with other Python projects. Open your terminal or command prompt, navigate to where you want to create your project folder, and type:
 
     ```bash
     # Go to your project folder (or create one)
     mkdir moneymind_project
     cd moneymind_project
+
+    # Clone the project 
+    git clone https://github.com/yudahendriawan/money-mind-chatbot-assistant.git
+
+    # Go to project 
+    cd money-mind-chatbot-assistant
 
     # Create a virtual environment named 'venv'
     python -m venv venv
